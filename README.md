@@ -1,1 +1,1 @@
-Adventure Game project created for Udacity's Into to Programming Nanodegree
+Adventure Game project for Udacity's Introduction to Programming Nanodegree
