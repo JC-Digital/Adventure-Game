@@ -1,1 +1,1 @@
-Adventure Game project for Udacity's Introduction to Programming Nanodegree
+Simple adventure game in Python that is based on an art heist
